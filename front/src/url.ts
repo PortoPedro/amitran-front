@@ -1,1 +1,0 @@
-export const url = 'https://amitran-back-puc-40c6a15f0b78.herokuapp.com';

@@ -1,1 +1,0 @@
-export { default as MenuDeAcoes } from './MenuDeAcoes';
